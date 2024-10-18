@@ -13,12 +13,6 @@ The Recipe App is a dynamic web application that allows users to search for vari
 - JavaScript
 - API Integration (e.g., [Recipe API Name])
 
-## Getting Started
-
-### Prerequisites
-- A modern web browser
-- Basic understanding of HTML, CSS, and JavaScript
-
 Main Page:
 ![Screenshot (2)](https://github.com/user-attachments/assets/3933d52d-0fd6-4742-8058-3934a04526f6)
 
